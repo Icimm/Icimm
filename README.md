@@ -8,8 +8,8 @@
 <br>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/icaro-bellem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <!--<a href="https://instagram.com/fajusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+   <a href="https://www.linkedin.com/in/icaro-bellem-8a0947235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!--<a href="https://instagram.com/icarobellemskt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
    <a href="mailto:icarobellem2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
 
