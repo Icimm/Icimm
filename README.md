@@ -7,6 +7,12 @@
 </div>
 <br>
 
+<p align="center">
+   <a href="https://www.linkedin.com/in/icaro-bellem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!--<a href="https://instagram.com/fajusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+   <a href="mailto:icarobellem2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</p>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -22,9 +28,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://www.linkedin.com/in/icaro-bellem-8a0947235/">
-      <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-    </a>
+  
 </div>
   
 ![Snake animation](https://github.com/Icimm/Icimm/blob/output/github-contribution-grid-snake.svg)
