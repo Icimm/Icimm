@@ -15,21 +15,18 @@
     <img align="center" height="30" width="40" alt="dart-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
     <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.icarobellem2@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
     <a href = "https://www.linkedin.com/in/icaro-bellem-8a0947235/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
     <a href = "https://www.instagram.com/icarobellemskt/">
-      <img width="25" src="instagram.png">
+      <img width="25" src=file:"instagram-svgrepo-com.svg">
     </a>
 </div>
   
