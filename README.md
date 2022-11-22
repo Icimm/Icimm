@@ -25,9 +25,6 @@
     <a href = "https://www.linkedin.com/in/icaro-bellem-8a0947235/">
       <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
     </a>
-    <a href = "https://www.instagram.com/icarobellemskt/">
-      <img width="25" src=file:"instagram-svgrepo-com.svg">
-    </a>
 </div>
   
 ![Snake animation](https://github.com/Icimm/Icimm/blob/output/github-contribution-grid-snake.svg)
