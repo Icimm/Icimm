@@ -15,19 +15,21 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="210" alt="coding-time" src="code.gif">
     <h1 align="center">Skills With : </h1>
     <img align="center" height="30" width="40" alt= "flutter-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" height="30" width="40" alt="dart-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
     <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h2 align="center">Learning:</h2>
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" alt="html-icon" src="H//ts-original.svg">
+  
   
 </div>
   
