@@ -1,4 +1,4 @@
-## Salvee ! Meu nome é Icaro e Eu sou um Desenvolvedor Mobile 📱
+## Salvee ! Meu nome é Icaro e eu sou um desenvolvedor mobile Full Stack📱
 
 <div>
   
@@ -28,7 +28,7 @@
   
   <h2 align="center">Learning:</h2>
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="H//ts-original.svg">
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   
   
 </div>
