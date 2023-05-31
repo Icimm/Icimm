@@ -1,4 +1,4 @@
-## Salvee ! Meu nome é Icaro e eu sou um desenvolvedor trainee mobile Full Stack📱
+## Salvee ! Meu nome é Icaro e eu sou um desenvolvedor junioe mobile Full Stack📱
 
 <div>
   
