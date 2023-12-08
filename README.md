@@ -1,4 +1,4 @@
-## Salvee ! Meu nome é Icaro ! e estou no caminho para ser um programador completo !
+## Salvee ! Meu nome é Icaro, e eu sou um desenvolvedor full stack !
 
 <div>
   
